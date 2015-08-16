@@ -174,8 +174,6 @@
     <Content Include="Config\Sites.config" />
     <None Include="Properties\PublishProfiles\visualcrypt - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\visualcrypt - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\VisualCryptBeta - FTP.pubxml" />
-    <None Include="Properties\PublishProfiles\VisualCryptBeta - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
