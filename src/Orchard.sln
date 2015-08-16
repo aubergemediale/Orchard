@@ -269,6 +269,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gulp", "Gulp", "{90EBEE36-B
 		Package.json = Package.json
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJS.Bootstrap", "Orchard.Web\Themes\PJS.Bootstrap\PJS.Bootstrap.csproj", "{579FDECC-52E8-4A6B-88D5-87689BB5C0F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CodeCoverage|Any CPU = CodeCoverage|Any CPU
@@ -1081,6 +1083,16 @@ Global
 		{BAC82DB9-F4C4-4DD1-ABDB-F70E6229E6B0}.FxCop|Any CPU.Build.0 = Release|Any CPU
 		{BAC82DB9-F4C4-4DD1-ABDB-F70E6229E6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAC82DB9-F4C4-4DD1-ABDB-F70E6229E6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579FDECC-52E8-4A6B-88D5-87689BB5C0F8}.CodeCoverage|Any CPU.ActiveCfg = Release|Any CPU
+		{579FDECC-52E8-4A6B-88D5-87689BB5C0F8}.CodeCoverage|Any CPU.Build.0 = Release|Any CPU
+		{579FDECC-52E8-4A6B-88D5-87689BB5C0F8}.Coverage|Any CPU.ActiveCfg = Release|Any CPU
+		{579FDECC-52E8-4A6B-88D5-87689BB5C0F8}.Coverage|Any CPU.Build.0 = Release|Any CPU
+		{579FDECC-52E8-4A6B-88D5-87689BB5C0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579FDECC-52E8-4A6B-88D5-87689BB5C0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579FDECC-52E8-4A6B-88D5-87689BB5C0F8}.FxCop|Any CPU.ActiveCfg = Release|Any CPU
+		{579FDECC-52E8-4A6B-88D5-87689BB5C0F8}.FxCop|Any CPU.Build.0 = Release|Any CPU
+		{579FDECC-52E8-4A6B-88D5-87689BB5C0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579FDECC-52E8-4A6B-88D5-87689BB5C0F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
